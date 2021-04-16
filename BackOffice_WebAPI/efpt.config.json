@@ -1,0 +1,72 @@
+﻿{
+   "CodeGenerationMode": 0,
+   "ContextClassName": "PCM_KS_BOContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": "Models",
+   "OutputPath": null,
+   "ProceduresReturnList": false,
+   "ProjectRootNamespace": "BackOffice_WebAPI",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[F_ARTICLE]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[F_COLLABORATEUR]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[F_COMPTET]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[F_DOCENTETE]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[F_DOCLIGNE]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[VM_Collaborateur]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Article]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[F_CATALOGUEV]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[N1Clt]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[N4]",
+         "ObjectType": 3
+      }
+   ],
+   "UiHint": "LAPTOP-4E41FP5D.PCM_KS_BO",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseNoConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSpatial": false
+}
